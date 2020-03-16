@@ -1,0 +1,3 @@
+# HelloCS
+JRs First Git Commit
+# My first commit, I hope I'm doing this correctly....
